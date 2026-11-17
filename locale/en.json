@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "InstaBox sandboxes",
+    "description": "Lists, inspects, runs commands on, power-cycles and keeps InstaBox cloud sandboxes awake with an activity lease."
+  }
+}

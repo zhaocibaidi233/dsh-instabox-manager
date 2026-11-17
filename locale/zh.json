@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "InstaBox 沙盒",
+    "description": "列出、查看、执行命令、开关机，并用 activity lease 让沙盒不被空闲休眠带走。"
+  }
+}
